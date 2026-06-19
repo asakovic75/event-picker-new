@@ -1,0 +1,38 @@
+﻿{
+  "app": {
+    "title": "Event Picker",
+    "search": "Search",
+    "profile": "My",
+    "hello": "Hi! I'm your event assistant. What are we looking for today in Grodno?",
+    "search_placeholder": "Type what you're looking for..."
+  },
+  "auth": {
+    "login": "Login",
+    "register": "Create account",
+    "email": "Email",
+    "password": "Password",
+    "name": "Your name",
+    "city": "City",
+    "welcome": "Login or register to find the best events"
+  },
+  "profile": {
+    "my_data": "My data",
+    "edit": "Edit",
+    "save": "Save",
+    "cancel": "Cancel",
+    "favorites": "Favorites",
+    "logout": "Logout",
+    "no_favorites": "You have no saved events yet",
+    "username": "Username",
+    "email": "Email",
+    "city": "City",
+    "interests": "Interest categories"
+  },
+  "chips": {
+    "today": "Events for today",
+    "free": "Free events",
+    "kids": "Where to go with kids",
+    "weekend": "Interesting weekend events"
+  },
+  "loading": "Looking for the most interesting... 🔎"
+}

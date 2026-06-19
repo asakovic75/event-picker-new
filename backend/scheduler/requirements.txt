@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+asyncpg
+psycopg2-binary
+redis
+httpx
+python-dotenv
+bcrypt
+pyjwt
+pydantic
+beautifulsoup4
+requests
+google-generativeai
